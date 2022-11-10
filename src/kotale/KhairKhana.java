@@ -6,5 +6,8 @@ public class KhairKhana {
 		// TODO Auto-generated method stub
 
 	}
+	public void testtwo() {
+		System.out.println("this is very nice car");
+	}
 
 }
